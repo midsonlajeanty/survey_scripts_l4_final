@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Intentions de quitter le pays",
+    "question": "Avez-vous l'intention de quitter le pays après avoir terminé vos études universitaires?",
+    "answers": ["Oui", "Non", "Incertain"],
+    "can_specify": false,
+    "allow_multiple": false
+  },
+  {
+    "subject": "Tranche d'âge",
+    "question": "Quel est votre âge actuel?",
+    "answers": [
+      "Moins de 20 ans",
+      "20-24 ans",
+      "25-29 ans",
+      "30-34 ans",
+      "35 ans et plus"
+    ],
+    "can_specify": false,
+    "allow_multiple": false
+  },
+  {
+    "subject": "Niveau d'études",
+    "question": "À quel niveau d'études êtes-vous actuellement?",
+    "answers": [
+      "Licence 1",
+      "Licence 2",
+      "Licence 3",
+      "Licence 4",
+      "DUT 1",
+      "DUT 2"
+    ],
+    "can_specify": false,
+    "allow_multiple": false
+  },
+  {
+    "subject": "Pays visé",
+    "question": "Vers quel(s) pays envisagez-vous de vous rendre? (Sélectionnez tous ceux qui s'appliquent)",
+    "answers": [
+      "États-Unis",
+      "Canada",
+      "Royaume-Uni",
+      "Australie",
+      "France",
+      "Autre"
+    ],
+    "can_specify": true,
+    "allow_multiple": true
+  },
+  {
+    "subject": "Raison du départ",
+    "question": "Pourquoi envisagez-vous de quitter le pays? (Sélectionnez toutes celles qui s'appliquent)",
+    "answers": [
+      "Opportunités professionnelles",
+      "Recherche académique",
+      "Qualité de vie",
+      "Autre"
+    ],
+    "can_specify": true,
+    "allow_multiple": true
+  },
+  {
+    "subject": "Objectif du départ",
+    "question": "Envisagez-vous de quitter le pays pour des études supplémentaires ou d'autres raisons? (Sélectionnez tous ceux qui s'appliquent)",
+    "answers": [
+      "Études supplémentaires",
+      "Raisons professionnelles",
+      "Raisons personnelles"
+    ],
+    "can_specify": false,
+    "allow_multiple": true
+  },
+  {
+    "subject": "Durée prévue à l'étranger",
+    "question": "Si vous envisagez un départ temporaire, quelle est la durée prévue de votre séjour?",
+    "answers": ["Moins d'un an", "1-2 ans", "3-5 ans", "Plus de 5 ans"],
+    "can_specify": false,
+    "allow_multiple": false
+  },
+  {
+    "subject": "Intention de retour dans le pays d'origine",
+    "question": "Avez-vous l'intention de retourner dans votre pays d'origine après votre séjour à l'étranger?",
+    "answers": ["Oui", "Non", "Incertain"],
+    "can_specify": false,
+    "allow_multiple": false
+  }
+]
